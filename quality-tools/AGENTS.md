@@ -97,7 +97,7 @@ same: adding indicators because they _could_ apply.
 - **A dimension needs backing.** `hasQualityDimension` reflects what the tool actually
   works on, not the neighbourhood it's in.
 
-Every indicator you add or remove is defended in the PR description with a link to the
+Every indicator that is not and obvious fit should be defended in the PR description with a link to the
 documentation page that supports it. "It seemed to fit" is not a source.
 
 ---
